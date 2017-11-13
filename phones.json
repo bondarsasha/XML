@@ -1,0 +1,32 @@
+[
+    {
+        "age": 0,
+        "id": "number",
+        "name": "0933738930",
+        "snippet": "sergey"
+    },
+    {
+        "age": 1,
+        "id": "number",
+        "name": "0936984675",
+        "snippet": "oleg"
+        },
+    {
+        "age": 2,
+        "id": "number",
+        "name": "0938673987",
+        "snippet": "sasha"
+    },
+    {
+        "age": 3,
+        "id": "number",
+        "name": "0935789376",
+        "snippet": "danil"
+    },
+    {
+        "age": 4,
+        "id": "number",
+        "name": "0935678936",
+        "snippet": "vanya"
+    }
+]
